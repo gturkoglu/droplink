@@ -1,5 +1,5 @@
 # droplink
-Send DAO membership tokens, built as part of Easy DAO Onboarding project.
+Send DAO membership tokens, built as part of [Easy DAO Onboarding](https://github.com/gturkoglu/dao-onboarding) project.
 
 ## Requirements
 
